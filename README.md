@@ -1,5 +1,4 @@
 # Insurance Charges Prediction: AutoML model deployed as a real-time endpoint on Azure ML
-*Built 31 Oct 2026 during an MLOps course (IIT Roorkee · Intellipaat). The Azure resources were deleted afterwards to avoid cost; this repository is the record.*
 
 ## What it does
 Predicts a customer's **medical insurance charges** (regression) from 12 inputs: age, sex, BMI, children, smoker, claim amount, past consultations, number of steps, hospital expenditure, number of past hospitalisations, annual salary and region. The model is served as a **REST API** and called from Python.
@@ -41,5 +40,5 @@ Sample request: age 27, male, BMI 27, 2 children, smoker, claim 16,000, 5 past c
 ![10_endpoint_consume](screenshots/10_endpoint_consume.png)
 
 ## Author
-**Rupali Gauravaram**: MSc Climate Resilience & Environmental Sustainability (University of Liverpool), Advanced Certification in Data Science & AI (IIT Roorkee).
+**Rupali Gauravaram**: MSc Climate Resilience & Environmental Sustainability (University of Liverpool), Advanced Certification in Data Science & AI (IIT Roorkee - Intellipaat).
 [LinkedIn](https://linkedin.com/in/rupali99) · [GitHub](https://github.com/Rupali-Gauravaram)
